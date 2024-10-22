@@ -1,4 +1,4 @@
-pentaho-mongo-utils
+tahopen-mongo-utils
 ===================
 
 A library for simplifying the creation and management of MongoDB connections.
