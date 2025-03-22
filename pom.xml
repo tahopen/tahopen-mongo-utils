@@ -14,13 +14,7 @@
   <name>Tahopen Community Edition Project: ${project.artifactId}</name>
   <description>A library for simplifying the creation and management of MongoDB connections.</description>
   <url>https://www.tahopen.org</url>
-  <!--
-  <scm>
-    <connection>scm:git:git@github.com:pentaho/${project.artifactId}.git</connection>
-    <developerConnection>scm:git:git@github.com:pentaho/${project.artifactId}.git</developerConnection>
-    <url>scm:git:git@github.com:pentaho/${project.artifactId}.git</url>
-  </scm>
-  -->
+
   <properties>
     <mongo-java-driver.version>3.12.10</mongo-java-driver.version>
     <mockito-all.version>1.9.5</mockito-all.version>
